@@ -1,4 +1,4 @@
 # Deep-Learning
-Fine Tuning
-Word Embedding
+Fine Tuning,
+Word Embedding,
 Vanilla Autoencoder
